@@ -10,7 +10,7 @@ public class HomeController {
 	
 	@GetMapping
 	public String index() {
-		return "Olá, seja bem vindo...";
+		return "Olá pessoal, seja bem vindo...";
 	}
 	
 }
