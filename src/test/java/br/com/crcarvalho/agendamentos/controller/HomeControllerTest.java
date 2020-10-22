@@ -8,7 +8,7 @@ public class HomeControllerTest {
 	
 	@Test
 	public void testeIntegracao() {
-		assertEquals(1, 1);
+		assertEquals(1, 2);
 	}
 	
 }
